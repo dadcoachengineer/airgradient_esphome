@@ -18,12 +18,12 @@ wifi:
   ap:
 
 packages:
-  board: github://MallocArray/airgradient_esphome/packages/airgradient_esp32-c3_board.yaml
-  pm_2.5: github://MallocArray/airgradient_esphome/packages/sensor_pms5003t.yaml
-  co2: github://MallocArray/airgradient_esphome/packages/sensor_s8.yaml
-  tvoc: github://MallocArray/airgradient_esphome/packages/sensor_sgp41.yaml
-  airgradient_api: github://MallocArray/airgradient_esphome/packages/airgradient_api_esp32-c3.yaml
-  hardware_watchdog: github://MallocArray/airgradient_esphome/packages/watchdog.yaml
-  wifi: github://MallocArray/airgradient_esphome/packages/sensor_wifi.yaml
-  uptime: github://MallocArray/airgradient_esphome/packages/sensor_uptime.yaml
-  safe_mode: github://MallocArray/airgradient_esphome/packages/switch_safe_mode.yaml
+  board: github://dadcoachengineer/airgradient_esphome/packages/airgradient_esp32-c3_board.yaml
+  pm_2.5: github://dadcoachengineer/airgradient_esphome/packages/sensor_pms5003t.yaml
+  co2: github://dadcoachengineer/airgradient_esphome/packages/sensor_s8.yaml
+  tvoc: github://dadcoachengineer/airgradient_esphome/packages/sensor_sgp41.yaml
+  airgradient_api: github://dadcoachengineer/airgradient_esphome/packages/airgradient_api_esp32-c3.yaml
+  hardware_watchdog: github://dadcoachengineer/airgradient_esphome/packages/watchdog.yaml
+  wifi: github://dadcoachengineer/airgradient_esphome/packages/sensor_wifi.yaml
+  uptime: github://dadcoachengineer/airgradient_esphome/packages/sensor_uptime.yaml
+  safe_mode: github://dadcoachengineer/airgradient_esphome/packages/switch_safe_mode.yaml
